@@ -1,16 +1,9 @@
 <div align="center">
   <img width="100%" src="https://github.com/oncoursesystems/.github/blob/master/assets/cover.png?raw=true" alt="cover" />
-  <br/>
-
-  ---
-
-  ## 🦋 Help Your Schools Grow.
+  
+  # 🦋 Help Your Schools Grow.
 
   OnCourse brings your community together in one intuitive platform that saves time and supports student growth.
-
-  ---
-
-<br/>
 
 ## Connect With Us:
 
@@ -25,8 +18,6 @@
 &nbsp;&nbsp;
 [![Linkedin](https://github.com/oncoursesystems/.github/blob/master/assets/linkedin-light.svg?raw=true#gh-light-mode-only)](https://www.linkedin.com/company/5058343)
 [![Linkedin](https://github.com/oncoursesystems/.github/blob/master/assets/linkedin-dark.svg?raw=true#gh-dark-mode-only)](https://www.linkedin.com/company/5058343)
-
-<br/>
 
 ## Our Favorite Tech:
 
