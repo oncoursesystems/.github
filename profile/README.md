@@ -8,7 +8,7 @@
 ## Connect With Us:
 
 [![Website](https://github.com/oncoursesystems/.github/blob/master/assets/globe-light.svg?raw=true)](https://www.oncoursesystems.com#gh-light-mode-only)
-[![Website](https://github.com/oncoursesystems/.github/blob/master/assets/globe-dark.svg?raw=true)](https://www.oncoursesystems.com.com#gh-dark-mode-only)
+[![Website](https://github.com/oncoursesystems/.github/blob/master/assets/globe-dark.svg?raw=true)](https://www.oncoursesystems.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Facebook](https://github.com/oncoursesystems/.github/blob/master/assets/facebook-light.svg?raw=true#gh-light-mode-only)](https://www.facebook.com/oncoursesystems#gh-light-mode-only)
 [![Facebook](https://github.com/oncoursesystems/.github/blob/master/assets/facebook-dark.svg?raw=true#gh-dark-mode-only)](https://www.facebook.com/oncoursesystems#gh-dark-mode-only)
