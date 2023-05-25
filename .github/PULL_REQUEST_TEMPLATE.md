@@ -20,6 +20,7 @@
 - [ ] 🐛 Bug Fix
 - [ ] 📝 Documentation Update
 - [ ] 🎨 Style
+- [ ] ♿ Accessibility
 - [ ] 🧑‍💻 Code Refactor
 - [ ] 🔥 Performance Improvements
 - [ ] 🔒 Security
